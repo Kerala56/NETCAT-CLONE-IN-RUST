@@ -1,4 +1,4 @@
-# netrusting
+# netcat
 
 Networking with Rust
 
